@@ -13,6 +13,7 @@ To use the extension:
 ![alt text](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/15065714/3-2.png)
 
 * Now click the button named "load unpacked" and select the folder where you cloned this repository (make sure to delete the readme.md file) and then vóila the extension is loaded and now enjoy distraction free lectures.
+* If the extension doesn't seem to work properly then restart the browser or reload the page.
 
 ![alt text](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/15065849/4-3.png)
 
@@ -21,3 +22,5 @@ To use the extension:
 * open url  "brave://extensions"
 
 * Now click the button named "load unpacked" and select the folder where you cloned this repository (make sure to delete the readme.md file) and then vóila the extension is loaded and now enjoy distraction free lectures.
+
+* If the extension doesn't seem to work properly then restart the browser or reload the page.
