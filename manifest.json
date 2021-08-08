@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+
+    "name": "Impartus adblocker",
+    "version": "0.1.0",
+    "description": "It blocks stupid upgrad ads on impartus website",
+
+    "content_scripts": [{
+        "css": ["styles.css"],
+        "matches": ["https://a.impartus.com/*"]
+    }]
+
+}
