@@ -10,7 +10,7 @@ open url "chrome://extensions"
 
 turn on the developer mode first
 
-[alt text](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/15065714/3-2.png)
+![alt text](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/15065714/3-2.png)
 
 ## For brave users:
 
