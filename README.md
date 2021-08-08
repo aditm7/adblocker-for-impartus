@@ -6,7 +6,7 @@ To use the extension:
 
 ## For Chrome users:
 
-* open url [chrome://extensions] (chrome://extensions)
+* open url "chrome://extensions"
 
 * turn on the developer mode first
 
@@ -18,6 +18,6 @@ To use the extension:
 
 ## For brave users:
 
-* open url [brave://extensions] (brave://extensions)
+* open url  "brave://extensions"
 
 * Now click the button named "load unpacked" and select the folder where you cloned this repository (make sure to delete the readme.md file) and then vóila the extension is loaded and now enjoy distraction free lectures.
